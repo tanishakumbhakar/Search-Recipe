@@ -10,6 +10,7 @@ The motivation behind creating this project was to understand the principles of 
 - HTML
 - CSS
 - JAVASCRIPT
+- AJAX
 
 ## Features
 - One can search a recipe with the given ingredients.This is needed since many times we do not know the right recipe that can be made with the ingredients.
