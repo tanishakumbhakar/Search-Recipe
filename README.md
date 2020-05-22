@@ -9,7 +9,7 @@ The motivation behind creating this project was to understand the principles of 
 <b>Built with</b>
 - HTML
 - CSS
-- JAVASCRIPT
+- jQuery
 - AJAX
 
 ## Features
